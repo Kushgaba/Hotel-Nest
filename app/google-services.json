@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221977613241",
+    "project_id": "hotel-booker-d04e1",
+    "storage_bucket": "hotel-booker-d04e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221977613241:android:78e6dcd6e1042aae339c68",
+        "android_client_info": {
+          "package_name": "com.example.hotelnest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ptZ6x7ZjhRu1MnaolsHrrB2jr2A94R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

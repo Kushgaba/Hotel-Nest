@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">
+        <!-- Customize your splash screen (logo, background color, etc.) -->
+        <item name="windowSplashScreenBackground">@color/myBlue</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.HotelNest</item>
+    </style>
+    <style name="Theme.HotelNest" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

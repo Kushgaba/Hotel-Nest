@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BookNest</string>
+    <string name="Question1">1. What happens if I enter the wrong OTP during account verification?</string>
+    <string name="Answer1">If you enter the wrong OTP, you will be shown an error message and will have to re-enter the correct code. Please mention the correct OTP that you receive on your registered mobile number via SMS to proceed with the verification process successfully.</string>
+    <string name="Question2">2. Where can I contact if I face any issues while booking a hotel room using the app?</string>
+    <string name="Answer2">If you face any issues during your booking process you can reach out to our customer support team by at dummy@book_nest.com or call us at 9999999999.</string>
+    <string name="Question3">3. Is my personal information secure when using this app?</string>
+    <string name="Answer3">Yes, we value the trust of our users and prioritise the security of their personal information. All your data, including personal details and booking information is secure with us and protected using encryption protocols to ensure confidentiality.</string>
+    <string name="rules">
+    &#8226; Check-in: 12p.m, Check-out: 11a.m&#10;&#8226; Pets are not allowed&#10;&#8226; Outside food is not allowed&#10;&#8226; Passport, Aadhar, and Govt ID are accepted as ID Proofs
+    </string>
+
+</resources>
